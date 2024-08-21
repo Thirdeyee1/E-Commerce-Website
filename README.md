@@ -1,8 +1,3 @@
-# E-Commerce-Website
-Here's an overview you can use for your GitHub repository of the eCommerce website you developed for the bolt shop:
-
----
-
 # Bolt Shop eCommerce Website
 
 This project is an eCommerce platform for a bolt shop, allowing users to browse products, manage orders, and complete payments online. The website features secure user registration, product listings, and an integrated payment system using PayPal. The backend is powered by SQL databases to handle orders, payments, and user data efficiently.
