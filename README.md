@@ -1,6 +1,8 @@
 # Bolt Shop eCommerce Website
 
-This project is an eCommerce platform for a bolt shop, allowing users to browse products, manage orders, and complete payments online. The website features secure user registration, product listings, and an integrated payment system using PayPal. The backend is powered by SQL databases to handle orders, payments, and user data efficiently.
+This project is an educational eCommerce platform designed for a bolt shop, allowing users to browse products, manage orders, and complete payments online. The website includes essential features such as secure user registration, product listings, and an integrated payment system using PayPal. The backend utilizes SQL databases to handle orders, payments, and user data efficiently.
+
+This project is not a live website but is developed for educational purposes, demonstrating the implementation of web technologies like frontend development, backend integration, and database management. Additionally, the PayPal payment system has been modified for easier integration.
 
 ## Features
 
